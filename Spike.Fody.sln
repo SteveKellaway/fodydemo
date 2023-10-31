@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spike.Fody", "Spike.Fody\Spike.Fody.csproj", "{7F2F5B50-0B48-4800-ACB8-278A1E76586F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spike.Fody.Tests", "Spike.Fody.Tests\Spike.Fody.Tests.csproj", "{E619D644-334D-4784-8C6E-2688CE52C3AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F2F5B50-0B48-4800-ACB8-278A1E76586F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2F5B50-0B48-4800-ACB8-278A1E76586F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2F5B50-0B48-4800-ACB8-278A1E76586F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2F5B50-0B48-4800-ACB8-278A1E76586F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E619D644-334D-4784-8C6E-2688CE52C3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E619D644-334D-4784-8C6E-2688CE52C3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E619D644-334D-4784-8C6E-2688CE52C3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E619D644-334D-4784-8C6E-2688CE52C3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE30F7CF-418D-4649-A64D-1CC0A707FB77}
+	EndGlobalSection
+EndGlobal
